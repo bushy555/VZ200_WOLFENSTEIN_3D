@@ -35,6 +35,9 @@ Wolfenstein 3D engine demo for Z80 VZ200 and VZ300
       s - straffe left
       d - straffe right
 
+The lo-res Z80 engine code could easily be ported to any other Z80 computer with a text/low graphics resolution of 32x16, 64x32 etc.
+VZ Start of ram, at $7B00 or $8000.   Video is at $7000. Keyboard, graphics modes and sound latch at $6800.
+
 
 
 
