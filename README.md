@@ -8,7 +8,7 @@ Wolfenstein 3D engine demo for Z80 VZ200 and VZ300
 
 ; VZ200 WOLF3D-VZ200.VZ 6k lo-res version (compressed and semi-optimsied for size). 
 ;
-;   WOLFENSTEIN FPS ENGINE CODE for TRS80-model1 by Lawrence Kesteloot.  e: lk@teamten.com
+;   WOLFENSTEIN FPS ENGINE CODE for TRS80-model1 by Lawrence Kesteloot. 
 
 ;   https://github.com/lkesteloot/trs80/tree/master/apps/wolf
 
@@ -28,17 +28,12 @@ Wolfenstein 3D engine demo for Z80 VZ200 and VZ300
 ;
 ; Found src code for trs80 on Lawrence github for the TRS80 Model 1.
 
-   Q - forward		Z - Show Map (MODE0 game only)
-
-    A - back		X - Menu
-   
-   M - left		C - Credits
-   
-   ,  - right
-   
-   s - straffe left
-   
-   d - straffe right
+      Q - forward		Z - Show Map (MODE0 game only)
+      A - back		X - Menu
+      M - left		C - Credits
+      ,  - right
+      s - straffe left
+      d - straffe right
 
 
 
