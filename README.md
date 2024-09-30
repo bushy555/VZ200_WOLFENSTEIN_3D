@@ -14,13 +14,7 @@ Wolfenstein 3D engine demo for Z80 VZ200 and VZ300
 
    Wolf wiki: https://en.wikipedia.org/wiki/Wolfenstein_3D$Development
 
-   Music player by Lyndon Sharp, modified by Shiru.
-
-   Ported from original TRS80 model 1 to VZ by dave.
-
-   Intro tune by Dave
-
-   Menu tune by Shiru
+   Music player by Lyndon Sharp, modified by Shiru.   Ported from original TRS80 model 1 to VZ by dave.    Intro tune by Dave.     Menu tune by Shiru.
 
    Slapped together by dave over ~2 or so weeks. Released : 22/9/2024
 
