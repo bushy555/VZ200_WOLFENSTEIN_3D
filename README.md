@@ -32,6 +32,13 @@ Wolfenstein 3D engine demo for Z80 VZ200 and VZ300
 
 The text/lo-res based Z80 engine code, sitting on Lawrence's GITHUB repositry (link above), could easily be ported and ran on any other Z80 computer with a text/low graphics resolution of 32x16, 32x32, 64x32, 64x64 etc.
 
+Binary files are included here as the VZ's official snapshot file format being the '.VZ" file.
+The majority of VZ/Laser emulators will read this format as their generic file format. (VZEM, Mess/MAME, JVZ, JVZ200, JVZ200, Antonino's online emu etc)
+In order to run this on real hardware you will need to load the binary in from a cassette player, PC, Wav/MP3 player, image recording device or phone. 
+Simply save the WAV to your device.  Connect your device to the Laser/VZ cassette port. Type CRUN on the Laser or VZ.  And press play on your device.
+
+
+
 
 
 
